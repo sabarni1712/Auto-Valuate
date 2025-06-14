@@ -1,6 +1,6 @@
-# 🚗 AutoValuate: Used Car Price Predictor
+# 🚗 Auto-Valuate: Used Car Price Predictor
 
-**AutoValuate** is a machine learning–powered web application that predicts the fair market price of a used car based on its specifications. It helps buyers and sellers in the second-hand car market make informed, data-driven pricing decisions using a simple web interface.
+**Auto-Valuate** is a machine learning–powered web application that predicts the fair market price of a used car based on its specifications. It helps buyers and sellers in the second-hand car market make informed, data-driven pricing decisions using a simple web interface.
 
 ---
 
@@ -79,6 +79,12 @@ streamlit run app.py
 
 ---
 
+## ✅ Conclusion
+
+**Auto-Valuate** simplifies the process of estimating used car prices by combining machine learning with an intuitive user interface. With just a few inputs, users can receive a reliable price prediction based on real-world data and statistical modeling. This project demonstrates the practical application of linear regression in solving real-life business problems and highlights how even simple ML models, when paired with user-centric design, can deliver meaningful value. As the system evolves, it holds strong potential for expansion into more intelligent, scalable, and real-time valuation platforms.
+
+---
+
 ## 📚 References
 
 - 📘 [Pandas](https://pandas.pydata.org/)
@@ -87,6 +93,7 @@ streamlit run app.py
 - 📊 Dataset Source: [Quikr.com](https://www.quikr.com/cars)
 
 ---
+
 
 
 
