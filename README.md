@@ -36,7 +36,7 @@
 
 ### 🧪 Installation
 ```bash
-git clone https://github.com/yourusername/used-car-price-predictor.git
+git clone https://github.com/sabarni1712/Auto-Valuate
 cd used-car-price-predictor
 pip install -r requirements.txt
 ```
@@ -54,7 +54,6 @@ streamlit run app.py
 ## 📊 Model Details
 
 - **🧠 Algorithm Used:** Linear Regression
-- **📂 Training Data:** Scraped from [Quikr.com](https://www.quikr.com/cars)
 - **🧹 Preprocessing:**
   - One-hot encoding of categorical variables
   - Scaling of numeric values (e.g., kilometers driven)
@@ -90,7 +89,6 @@ streamlit run app.py
 - 📘 [Pandas](https://pandas.pydata.org/)
 - 🤖 [Scikit-learn](https://scikit-learn.org/)
 - 🌐 [Streamlit](https://streamlit.io/)
-- 📊 Dataset Source: [Quikr.com](https://www.quikr.com/cars)
 
 ---
 
