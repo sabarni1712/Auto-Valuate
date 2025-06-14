@@ -66,7 +66,7 @@ streamlit run app.py
 
 ## 🖼️ Demo
 
-
+![image alt](https://github.com/sabarni1712/Auto-Valuate/blob/060394bc04b10e4373659ea947a1c1088af87988/photo_2025-06-14_16-43-18.jpg)
 
 ---
 
